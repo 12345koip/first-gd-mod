@@ -1,0 +1,14 @@
+{
+	"geode": "5.0.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "12345koip.first-mod-testing",
+	"name": "first mod testing",
+	"version": "v1.0.0",
+	"developer": "12345koip",
+	"description": "my first gd mod for testing idk"
+}
