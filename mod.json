@@ -6,9 +6,9 @@
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "12345koip.first-mod-testing",
-	"name": "first mod testing",
+	"id": "12345koip.death-notifications",
+	"name": "Death Notifications",
 	"version": "v1.0.0",
 	"developer": "12345koip",
-	"description": "my first gd mod for testing idk"
+	"description": "Just in case you didn't realise you died..."
 }
